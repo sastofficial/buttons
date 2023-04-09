@@ -19,8 +19,14 @@
     <p style="text-align: center;"><span style="color: white;"></span><img src="images/anibar.gif"
         alt=""></p>
     <h2 style="text-align: center;"><span style="color: white;">WEBRINGS</span></h2>
-    <div style="text-align:	center;" class="yw-widget-mini" data-yw-url="sastofficial.github.io/buttons"></div>
-    <script src="https://yesterweb.org/js/widget.js"></script>
+    <p style="text-align: center;"><span style="color: white;">Yesterweb</span></p>
+    <a href="https://webring.yesterweb.org/noJS/index.php?d=prev&amp;url=https://sastofficial.github.io/buttons">
+      <p style="text-align:	center"> Previous</p>
+    </a> <a href="https://webring.yesterweb.org/noJS/index.php?d=rand&amp;url=https://sastofficial.github.io/buttons">
+      <p style="text-align:	center">Random</p>
+    </a> <a href="https://webring.yesterweb.org/noJS/index.php?d=next&amp;url=https://sastofficial.github.io/buttons">
+      <p style="text-align:	center">Next</p>
+    </a>
     <p> </p>
     <p></p>
     <p style="text-align: center;"><img src="images/anibar.gif" alt=""></p>
