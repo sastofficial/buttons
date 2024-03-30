@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Genre</title>
+    <meta name="author" content="SA ST">
+    <style type="text/css">
+#space {
+  background-image: url("images/spacebackground.gif");
+}
+
+</style></head>
+  <body>
+  </body>
+</html>
