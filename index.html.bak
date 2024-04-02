@@ -1319,9 +1319,8 @@
         src="images/buttons/w-.png" alt=""><img src="images/buttons/vs.gif" alt=""><img
         src="images/buttons/ze.png" alt=""><img src="images/buttons/yb.png" alt=""><img
         src="images/buttons/xy.png" alt=""></p>
-    <p style="text-align: center;"><img src="../RbSPages/TheSecondFolder/sc.gif"
-        alt=""><img src="../RbSPages/TheSecondFolder/cd.png" alt=""><img src="../RbSPages/TheSecondFolder/bc.png"
-        alt=""><img src="../RbSPages/TheSecondFolder/apple%20music.png" alt=""><img
-        src="../RbSPages/TheSecondFolder/amazon.gif" alt=""> </p>
+    <p style="text-align: center;"><img src="images/buttons/sc.gif" alt=""><img
+        src="images/buttons/apple%20music.png" alt=""><img src="images/buttons/bc.png"
+        alt=""><img src="images/buttons/cd.png" alt=""> </p>
   </body>
 </html>
